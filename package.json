@@ -1,0 +1,16 @@
+{
+	"name" : "Asky",
+	"dependencies" : {
+		"async" : "*",
+        "lodash" : "*",
+        "moment": "*",
+		"express": "*",
+        "mongoose": "*",
+		"body-parser": "*",
+        "mongoose": "*",
+        "express-domain-middleware": "*",
+        "node-okay": "*"
+	},
+    "main": "server.js",
+	"private": true
+}
